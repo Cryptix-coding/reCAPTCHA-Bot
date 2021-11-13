@@ -1,7 +1,7 @@
 # reCAPTCHA Bot
 This bot can solve the Google Recaptcha for you completely automated.
 
-#How the bot works
+## how the bot works
 1. opening of the page with the reChaptcha (Demo) (https://www.google.com/recaptcha/api2/demo)
 2. search frame with the reCpatcha
 3. wait
@@ -14,7 +14,7 @@ This bot can solve the Google Recaptcha for you completely automated.
 10. convert the audio file into text with the Google-Voice-Recognition
 11. enter text in the field and confirm
 
-#needed libraries
+## needed libraries
 selenium + appropriate browser driver
 - Chrome: https://chromedriver.chromium.org/downloads
 - Firefox: https://github.com/mozilla/geckodriver/releases
